@@ -29,15 +29,14 @@ h3 {
 a {
   border-radius: 100%;
   color: #11999E;
-  font-family: 'Acme', sans-serif;
   font-size: 30px;
   margin: 10px 20px;
   text-decoration: none;
 }
 
 a:hover {
-   color: #FFC627;
-   text-decoration: none;
+  color: #FFC627;
+  text-decoration: none;
 }
 
 p {
@@ -96,7 +95,7 @@ hr {
 }
 
 .mountain {
-  margin-bottom: -5px;
+  margin-bottom: -0.35rem;
 }
 
 .top-cloud {
