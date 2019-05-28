@@ -95,7 +95,7 @@ hr {
 }
 
 .mountain {
-  margin-bottom: -0.3%;
+  vertical-align: bottom;
 }
 
 .top-cloud {
